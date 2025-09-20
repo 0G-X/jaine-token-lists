@@ -1,5 +1,5 @@
 {
-	"name": "Zer0DEX Token List",
+	"name": "Jaine Token List",
 	"timestamp": "2025-01-03T20:47:02.923Z",
 	"version": {
 		"major": 1,
@@ -8,47 +8,15 @@
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-	"keywords": ["uniswap", "active"],
+	"keywords": ["jaine", "active"],
 	"tokens": [
-		{
-			"name": "WETH",
-			"address": "0x564770837Ef8bbF077cFe54E5f6106538c815B22",
-			"symbol": "WETH",
-			"decimals": 18,
-			"chainId": 16661,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-		},
-		{
-			"name": "WA0GI",
-			"address": "0x1cd0690ff9a693f5ef2dd976660a8dafc81a109c",
-			"symbol": "wA0GI",
-			"decimals": 18,
-			"chainId": 16661,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-		},
-		{
-			"name": "USDT",
-			"address": "0x9FBBAFC2Ad79af2b57eD23C60DfF79eF5c2b0FB5",
-			"symbol": "USDT",
-			"decimals": 18,
-			"chainId": 16661,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-		},
-		{
-			"name": "USDC",
-			"address": "0x8a2B28364102Bea189D99A475C494330Ef2bDD0B",
-			"symbol": "USDC",
-			"decimals": 18,
-			"chainId": 16661,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-		},
 		{
 			"name": "stOG",
 			"address": "0x7bbc63d01ca42491c3e084c941c3e86e55951404",
 			"symbol": "st0G",
 			"decimals": 18,
 			"chainId": 16661,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+			"logoURI": "https://raw.githubusercontent.com/0G-X/jaine-token-lists/main/assets/mainnet/0x7bbc63d01ca42491c3e084c941c3e86e55951404.png"
 		}
 	]
 }
