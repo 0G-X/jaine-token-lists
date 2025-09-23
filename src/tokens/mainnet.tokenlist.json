@@ -33,6 +33,14 @@
 			"decimals": 18,
 			"chainId": 16661,
 			"logoURI": "https://raw.githubusercontent.com/0G-X/jaine-token-lists/main/assets/mainnet/wstETH.svg"
+		},
+		{
+			"name": "PAI",
+			"address": "0x59ef6f3943bbdfe2fb19565037ac85071223e94c",
+			"symbol": "PAI",
+			"decimals": 18,
+			"chainId": 16661,
+			"logoURI": "https://raw.githubusercontent.com/0G-X/jaine-token-lists/main/assets/mainnet/PAI.svg"
 		}
 	]
 }
