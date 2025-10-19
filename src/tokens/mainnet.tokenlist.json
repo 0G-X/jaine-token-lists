@@ -49,6 +49,14 @@
 			"decimals": 18,
 			"chainId": 16661,
 			"logoURI": "https://raw.githubusercontent.com/0G-X/jaine-token-lists/main/assets/mainnet/wETH.svg"
+		},
+        {
+			"name": "oUSDT",
+			"address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+			"symbol": "oUSDT",
+			"decimals": 6,
+			"chainId": 16661,
+			"logoURI": "https://raw.githubusercontent.com/0G-X/jaine-token-lists/main/assets/mainnet/oUSDT.svg"
 		}
 	]
 }
