@@ -65,6 +65,14 @@
 			"decimals": 18,
 			"chainId": 16661,
 			"logoURI": "https://raw.githubusercontent.com/0G-X/jaine-token-lists/main/assets/mainnet/Link.svg"
+		},
+		{
+			"name": "cbBTC",
+			"address": "0xa5613ac7f1e83a68719b1398c8f6aaa25581db82",
+			"symbol": "CoinBase BTC",
+			"decimals": 8,
+			"chainId": 16661,
+			"logoURI": "https://raw.githubusercontent.com/0G-X/jaine-token-lists/main/assets/mainnet/cbBTC.svg"
 		}
 	]
 }
