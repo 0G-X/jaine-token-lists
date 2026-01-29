@@ -73,6 +73,14 @@
 			"decimals": 8,
 			"chainId": 16661,
 			"logoURI": "https://raw.githubusercontent.com/0G-X/jaine-token-lists/main/assets/mainnet/cbBTC.svg"
+		},
+		{
+			"name": "HaiO",
+			"address": "0xbCB868d3d0A823ced82B77DD72E4f7A3C720A40E",
+			"symbol": "HAIO",
+			"decimals": 9,
+			"chainId": 16661,
+			"logoURI": "https://raw.githubusercontent.com/0G-X/jaine-token-lists/main/assets/mainnet/HaiO_SVG.svg"
 		}
 	]
-}
+}	
