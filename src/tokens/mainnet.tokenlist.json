@@ -69,7 +69,7 @@
 		{
 			"name": "WBTC",
 			"address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-			"symbol": "Wrapped BTC",
+			"symbol": "wBTC",
 			"decimals": 8,
 			"chainId": 16661,
 			"logoURI": "https://raw.githubusercontent.com/0G-X/jaine-token-lists/main/assets/mainnet/wBTC.png"
